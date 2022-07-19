@@ -1,5 +1,5 @@
 # blenderProjects
-Learning Blender 1 project at a time. This repo holds all the final renders of all projects I've worked on
+Learning Blender one project at a time. This repo holds all the final renders of all projects I've worked on
 
 
 ![room](https://user-images.githubusercontent.com/72510002/179811457-79ca1e0d-875a-47f0-a2f8-4e765406860e.png)
